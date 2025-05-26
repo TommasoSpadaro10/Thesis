@@ -1,0 +1,11 @@
+More Efficient Electricity Grids with Prosumer and Microgrid: A Model for Optimizing Trading
+
+The growing demand for energy and the need to integrate intermittent renewable sources are crucial challenges for the sustainability of modern energy systems. This thesis addresses these complexities by developing an advanced optimization model for electricity management in a network that includes both large producers and consumer-producers (prosumers), integrating the concept of microgrids.
+
+The model is distinguished by its ability to consider multiple critical aspects: production from renewable and non-renewable sources (managing their variability), optimization of energy storage (through different types of storage such as batteries), the trading dynamics between all actors, the physical limits of the network and the facilities, and the impact of environmental policies such as carbon tax and green incentives. An innovative strength of the work lies in the integration of plant maintenance planning, a fundamental aspect to maximize efficiency and minimize losses.
+
+For the realization and numerical simulation of this complex model, I acquired and applied skills in the use of cutting-edge optimization software:
+
+CPLEX OPL IBM: Used for the modelling and problem solving of linear and whole programming, in particular for the optimization of maintenance planning. This required mastery in the formulation of complex mathematical models and the management of binary variables.
+
+MATLAB: Used for numerical simulations of the trading model, allowing a detailed analysis of the results and visualization of the impact of different parameters. I have deepened my skills in numerical analysis, scientific calculation and data visualization.
